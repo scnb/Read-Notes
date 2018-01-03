@@ -9,3 +9,5 @@ Including:
 《CSAPP》
 
 《Modern Operating System》
+
+《Shell从入门到精通》
